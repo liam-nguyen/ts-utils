@@ -1,0 +1,22 @@
+{
+  "name": "ts-utils",
+  "version": "0.0.0",
+  "description": "A package of useful ts goodies",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/liam-nguyen/ts-utils.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Liam Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liam-nguyen/ts-utils/issues"
+  },
+  "homepage": "https://github.com/liam-nguyen/ts-utils#readme"
+}
